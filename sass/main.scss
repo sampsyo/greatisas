@@ -1,0 +1,238 @@
+$main-color: rgb(179, 27, 27);
+$disabled-color: #666;
+$exception-color: #ccc;
+$max-width: 40rem;
+
+
+// Layout.
+body {
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  padding: 0.5rem 0;
+  nav {
+    display: block;
+    margin: 0.5rem auto;
+    max-width: $max-width;
+    padding: 0 1rem;
+  }
+}
+
+main {
+  margin: 1rem auto;
+  max-width: $max-width;
+
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+// On wide pages, do not constrain.
+body.wide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  main {
+    margin: 1rem;
+    max-width: none;
+  }
+}
+
+
+// Fonts.
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 140%;
+}
+
+a {
+  color: $main-color;
+}
+
+h1 {
+  line-height: 110%;
+  margin-top: 0;
+}
+
+h1, h2 {
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+
+// Header links.
+header {
+  background: $main-color;
+  color: white;
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  h1 {
+    font-size: inherit;
+    font-weight: bold;
+    margin-right: 1rem;
+  }
+  nav {
+    h1 {
+      display: inline-block;
+    }
+    p {
+      display: inline-block;
+    }
+    h1, p {
+      margin: 0 1rem 0 0;
+    }
+  }
+}
+
+
+// Footer links.
+footer {
+  text-align: center;
+  margin: 1rem;
+  color: $disabled-color;
+  font-size: 80%;
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+
+// Schedule table.
+table {
+  border-collapse: collapse;
+  th {
+    text-align: left;
+    font-weight: bold;
+  }
+  thead th {
+    padding: 0 0.5rem;
+  }
+  td, th {
+    padding: 0.5rem 0.5rem;
+  }
+}
+
+
+// Course schedule.
+.schedule {
+  .canceled {
+    background: $exception-color;
+  }
+  .event {
+    font-weight: bold;
+  }
+  .mon > td, .mon > th {
+    // Spacing between weeks.
+    border-top: 1.5rem solid white;
+  }
+  ul {
+    margin: 0;
+    padding-left: 1em;
+    list-style: square;
+  }
+  .short {
+    white-space: nowrap;
+  }
+}
+
+
+// Logo.
+img.logo {
+  width: 40%;
+  height: auto;
+  float: right;
+
+  margin-left: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+article {
+  h1 a {
+    text-decoration: none;
+    color: $main-color;
+  }
+  h1 {
+    margin-bottom: 0;
+  }
+  footer {
+    font-style: italic;
+    margin: 1em 0;
+    text-align: inherit;
+    color: $disabled-color;
+    font-size: inherit;
+    line-height: 130%;
+    border-top: 1px solid $disabled-color;
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+
+  &.small {
+    margin-bottom: 0.3rem;
+    h1 {
+      font-size: inherit;
+      &:hover {
+        text-decoration: underline;
+      }
+      display: inline;
+    }
+    time {
+      display: inline-block;
+      text-align: right;
+      width: 4rem;
+      margin-right: 0.5rem;
+    }
+  }
+
+  code {
+      background-color: #eff0f1;
+      padding: 2px 4px;
+      border-radius: 2px;
+  }
+
+  p > img {
+      width: 100%
+  }
+}
+
+pre {
+  line-height: 120%;
+  overflow-x: auto;
+}
+
+.details {
+  margin-top: 0;
+  time {
+      margin-left: 1em;
+  }
+}
+
+img.rss {
+  width: 0.8em;
+  height: 0.8em;
+}
+
+.ornament {
+  max-width: 15rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footnote-definition {
+  color: $disabled-color;
+  .footnote-definition-label {
+    float: left;
+    padding-right: 1em;
+    font-size: 0.8em;
+    &:before { content: '['; }
+    &:after { content: ']'; }
+  }
+}

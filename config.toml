@@ -1,0 +1,15 @@
+base_url = "https://www.cs.cornell.edu/courses/cs7491/2020sp"
+compile_sass = true
+build_search_index = false
+generate_rss = true
+
+highlight_code = true
+highlight_theme = "inspired-github"
+
+title = "The Great ISAs"
+
+[extra]
+favicon = "/img/favicon.ico"
+bigicon = "/img/favicon152.png"
+
+links = []  # No links.

@@ -1,0 +1,5 @@
+[[classes]]
+title = "This is a Test"
+[[classes.readings]]
+name = "The IBM System/360 Model 91: Machine Philosophy and Instruction-Handling"
+link = "http://home.eng.iastate.edu/~zzhang/courses/cpre585-f04/reading/ibm67-anderson-360.pdf"

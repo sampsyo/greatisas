@@ -1,0 +1,53 @@
+[[days]]
+date = "January 23"
+# ISAT
+
+[[days]]
+date = "January 30"
+
+[[days]]
+date = "February 6"
+
+[[days]]
+date = "February 13"
+
+[[days]]
+date = "February 20"
+# PLDI PC
+
+[[days]]
+date = "February 27"
+# UCLA review
+
+[[days]]
+date = "March 5"
+
+[[days]]
+date = "March 12"
+# NSF panel
+
+[[days]]
+date = "March 19"
+canceled = true
+event = "ASPLOS"
+
+[[days]]
+date = "March 26"
+
+[[days]]
+date = "April 2"
+canceled = true
+event = "Spring Break"
+
+[[days]]
+date = "April 9"
+
+[[days]]
+date = "April 16"
+# ADA symposium
+
+[[days]]
+date = "April 23"
+
+[[days]]
+date = "April 30"
