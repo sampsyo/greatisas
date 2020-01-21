@@ -1,5 +1,85 @@
 [[classes]]
-title = "This is a Test"
+title = "IBM System/360"
 [[classes.readings]]
-name = "The IBM System/360 Model 91: Machine Philosophy and Instruction-Handling"
-link = "http://home.eng.iastate.edu/~zzhang/courses/cpre585-f04/reading/ibm67-anderson-360.pdf"
+name = "Architecture of the IBM System/360"
+link = "https://www.ece.ucdavis.edu/~vojin/CLASSES/EEC272/S2005/Papers/IBM360-Amdahl_april64.pdf"
+details = "G. M. Amdahl, G. A. Blaauw, and F. P. Brooks, Jr."
+
+[[classes]]
+title = "Data Flow"
+[[classes.readings]]
+name = "A Preliminary Architecture for a Basic Data-Flow Processor"
+link = "https://dl.acm.org/doi/10.1145/641675.642111"
+details = "Jack B. Dennis and David P. Misunas."
+
+[[classes]]
+title = "Lisp Machines"
+[[classes.readings]]
+name = "Architecture of the Symbolics 3600"
+link = "https://dl.acm.org/doi/10.5555/327010.327133"
+details = "David A. Moon"
+
+[[classes]]
+title = "RISC"
+[[classes.readings]]
+name = "The case for the reduced instruction set computer"
+link = "https://dl.acm.org/doi/10.1145/641914.641917"
+details = "David A. Patterson and David R. Ditzel"
+
+[[classes]]
+title = "Connection Machines"
+[[classes.readings]]
+name = "The Connection Machine"
+link = "https://dspace.mit.edu/handle/1721.1/14719"
+details = "Danny Hillis. This is a PhD thesis: don't read it all. Just find something interesting in there"
+[[classes.readings]]
+name = "The Design of the Connection Machine"
+link = "http://www.tamikothiel.com/theory/cm_txts/index.html"
+details = "Tamiko Thiel (bonus)"  # before?
+
+[[classes]]
+title = "Tera MTA"
+[[classes.readings]]
+name = "The Tera computer system"
+link = "https://dl.acm.org/doi/10.1145/255129.255132"
+details = "Robert Alverson, David Callahan, Daniel Cummings, Brian Koblenz, Allan Porterfield, and Burton Smith"
+
+[[classes]]
+title = "Out of Order"
+[[classes.readings]]
+name = "HPSm, a high performance restricted data flow architecture having minimal functionality"
+link = "https://dl.acm.org/doi/10.1145/17356.17391"
+details = "W. Hwu and Y. N. Patt"
+[[classes.readings]]
+name = "An Efficient Algorithm for Exploiting Multiple Arithmetic Units"
+link = "https://people.eecs.berkeley.edu/~culler/courses/cs252-s05/papers/tomasulo.pdf"
+details = "R. M. Tomasulo (bonus)"  # before?
+
+[[classes]]
+title = "VLIW"
+[[classes.readings]]
+name = "Very Long Instruction Word architectures and the ELI-512"
+link = "https://dl.acm.org/doi/10.1145/800046.801649"
+details = "Joseph A. Fisher"
+[[classes.readings]]
+name = "Very Long Instruction Word Architectures and the ELI- 512"
+link = "https://www.hpl.hp.com/news/2005/jul-sep/VLIW_retrospective.pdf"
+details = "Joseph A. Fisher (retrospective)"  # before?
+[[classes.readings]]
+name = "Itanium processor microarchitecture"
+link = "https://www.hpl.hp.com/news/2005/jul-sep/VLIW_retrospective.pdf"
+details = "H. Sharangpani and H. Arora (bonus)"  # before?
+
+[[classes]]
+title = "Multicore"
+[[classes.readings]]
+name = "The Case for a Single-Chip Multiprocessor"
+link = "https://dl.acm.org/doi/10.1145/248209.237140"
+details = "Kunle Olukotun, Basem A. Nayfeh, Lance Hammond, Ken Wilson, and Kunyung Chang"
+
+[[classes]]
+title = "RISC-V"
+[[classes.readings]]
+name = "Instruction Sets Should Be Free: The Case For RISC-V"
+link = "https://people.eecs.berkeley.edu/~krste/papers/EECS-2014-146.pdf"
+details = "Krste Asanović and David A. Patterson"
