@@ -40,14 +40,14 @@ details = "Tamiko Thiel (bonus)"  # before?
 [[classes]]
 title = "Tera MTA"
 [[classes.readings]]
-name = "The Tera computer system"
+name = "The Tera Computer System"
 link = "https://dl.acm.org/doi/10.1145/255129.255132"
 details = "Robert Alverson, David Callahan, Daniel Cummings, Brian Koblenz, Allan Porterfield, and Burton Smith"
 
 [[classes]]
 title = "Out of Order"
 [[classes.readings]]
-name = "HPSm, a high performance restricted data flow architecture having minimal functionality"
+name = "HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality"
 link = "https://dl.acm.org/doi/10.1145/17356.17391"
 details = "W. Hwu and Y. N. Patt"
 [[classes.readings]]
@@ -62,12 +62,12 @@ name = "Very Long Instruction Word architectures and the ELI-512"
 link = "https://dl.acm.org/doi/10.1145/800046.801649"
 details = "Joseph A. Fisher"
 [[classes.readings]]
-name = "Very Long Instruction Word Architectures and the ELI- 512"
+name = "(Retrospective on the above.)"
 link = "https://www.hpl.hp.com/news/2005/jul-sep/VLIW_retrospective.pdf"
-details = "Joseph A. Fisher (retrospective)"  # before?
+details = "Joseph A. Fisher"
 [[classes.readings]]
-name = "Itanium processor microarchitecture"
-link = "https://www.hpl.hp.com/news/2005/jul-sep/VLIW_retrospective.pdf"
+name = "Itanium Processor Microarchitecture"
+link = "https://ieeexplore.ieee.org/document/877948"
 details = "H. Sharangpani and H. Arora (bonus)"  # before?
 
 [[classes]]
@@ -80,6 +80,6 @@ details = "Kunle Olukotun, Basem A. Nayfeh, Lance Hammond, Ken Wilson, and Kunyu
 [[classes]]
 title = "RISC-V"
 [[classes.readings]]
-name = "Instruction Sets Should Be Free: The Case For RISC-V"
+name = "Instruction Sets Should Be Free: The Case for RISC-V"
 link = "https://people.eecs.berkeley.edu/~krste/papers/EECS-2014-146.pdf"
 details = "Krste Asanović and David A. Patterson"
