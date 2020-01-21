@@ -25,6 +25,10 @@ title = "RISC"
 name = "The case for the reduced instruction set computer"
 link = "https://dl.acm.org/doi/10.1145/641914.641917"
 details = "David A. Patterson and David R. Ditzel"
+[[classes.readings]]
+name = "A Retrospective on High-Level Language Computer Architecture"
+link = "https://dl.acm.org/doi/abs/10.1145/285930.285936"
+details = "David R. Ditzel and David A. Patterson (bonus)"  # after?
 
 [[classes]]
 title = "Connection Machines"
@@ -71,11 +75,36 @@ link = "https://ieeexplore.ieee.org/document/877948"
 details = "H. Sharangpani and H. Arora (bonus)"  # before?
 
 [[classes]]
+title = "Dynamic Binary Translation"
+[[classes.readings]]
+name = "The Technology Behind Crusoe™ Processors"
+link = "https://web.stanford.edu/class/cs343/resources/crusoe.pdf"
+details = "Alexander Klaiber"
+[[classes.readings]]
+name = "The Transmeta Code Morphing™ Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges"
+link = "https://dl.acm.org/doi/10.5555/776261.776263"
+details = "James C. Dehnert, Brian K. Grant, John P. Banning, Richard Johnson, Thomas Kistler, Alexander Klaiber, and Jim Mattson"
+
+[[classes]]
 title = "Multicore"
 [[classes.readings]]
 name = "The Case for a Single-Chip Multiprocessor"
 link = "https://dl.acm.org/doi/10.1145/248209.237140"
 details = "Kunle Olukotun, Basem A. Nayfeh, Lance Hammond, Ken Wilson, and Kunyung Chang"
+
+[[classes]]
+title = "Tiled Architectures"
+[[classes.readings]]
+name = "The Raw Microprocessor: A Computational Fabric for Software Circuits and General-Purpose Programs"
+link = "https://ieeexplore.ieee.org/document/997877"
+details = "M.B. Taylor, J. Kim, J. Miller, D. Wentzlaff, F. Ghodrat, B. Greenwald, H. Hoffman, P. Johnson, Jae-Wook Lee, W. Lee, A. Ma, A. Saraf, M. Seneski, N. Shnidman, V. Strumpen, M. Frank, S. Amarasinghe, and A. Agarwal"
+
+[[classes]]
+title = "EDGE"
+[[classes.readings]]
+name = "Exploiting ILP, TLP, and DLP with the Polymorphous TRIPS Architecture"
+link = "https://dl.acm.org/doi/10.1145/859618.859667"
+details = "Karthikeyan Sankaralingam, Ramadass Nagarajan, Haiming Liu, Changkyu Kim, Jaehyuk Huh, Doug Burger, Stephen W. Keckler, and Charles R. Moore"
 
 [[classes]]
 title = "RISC-V"
