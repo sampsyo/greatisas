@@ -11,7 +11,7 @@ title = "Data Flow"
 [[classes.readings]]
 name = "A Preliminary Architecture for a Basic Data-Flow Processor"
 link = "https://dl.acm.org/doi/10.1145/641675.642111"
-details = "Jack B. Dennis and David P. Misunas."
+details = "Jack B. Dennis and David P. Misunas"
 
 [[classes]]
 title = "Lisp Machines"
@@ -29,7 +29,8 @@ details = "David A. Patterson and David R. Ditzel"
 [[classes.readings]]
 name = "A Retrospective on High-Level Language Computer Architecture"
 link = "https://dl.acm.org/doi/abs/10.1145/285930.285936"
-details = "David R. Ditzel and David A. Patterson (bonus)"  # after?
+details = "David R. Ditzel and David A. Patterson"
+marker = "Bonus"
 
 [[classes]]
 title = "Connection Machines"
@@ -40,7 +41,8 @@ details = "Danny Hillis. This is a PhD thesis: don't read it all. Just find some
 [[classes.readings]]
 name = "The Design of the Connection Machine"
 link = "http://www.tamikothiel.com/theory/cm_txts/index.html"
-details = "Tamiko Thiel (bonus)"  # before?
+details = "Tamiko Thiel"
+marker = "Bonus"
 
 [[classes]]
 title = "Tera MTA"
@@ -58,7 +60,8 @@ details = "W. Hwu and Y. N. Patt"
 [[classes.readings]]
 name = "An Efficient Algorithm for Exploiting Multiple Arithmetic Units"
 link = "https://people.eecs.berkeley.edu/~culler/courses/cs252-s05/papers/tomasulo.pdf"
-details = "R. M. Tomasulo (bonus)"  # before?
+details = "R. M. Tomasulo"
+marker = "Bonus"
 
 [[classes]]
 title = "VLIW"
@@ -73,7 +76,8 @@ details = "Joseph A. Fisher"
 [[classes.readings]]
 name = "Itanium Processor Microarchitecture"
 link = "https://ieeexplore.ieee.org/document/877948"
-details = "H. Sharangpani and H. Arora (bonus)"  # before?
+details = "H. Sharangpani and H. Arora"
+marker = "Bonus"
 
 [[classes]]
 title = "Dynamic Binary Translation"

@@ -48,6 +48,9 @@
         <ul>
         {% for reading in class.readings %}
           <li>
+            {% if reading.marker %}
+            <em>{{ reading.marker }}:</em>
+            {% endif %}
             <a href="{{reading.link}}">{{reading.name}}</a>
             {% if reading.details %}
             <br>{{reading.details}}
