@@ -89,6 +89,7 @@ details = "Alexander Klaiber"
 name = "The Transmeta Code Morphing™ Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges"
 link = "https://dl.acm.org/doi/10.5555/776261.776263"
 details = "James C. Dehnert, Brian K. Grant, John P. Banning, Richard Johnson, Thomas Kistler, Alexander Klaiber, and Jim Mattson"
+marker = "Bonus"
 
 [[classes]]
 title = "Multicore"
