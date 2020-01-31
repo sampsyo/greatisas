@@ -8,6 +8,7 @@ details = "G. M. Amdahl, G. A. Blaauw, and F. P. Brooks, Jr."
 
 [[classes]]
 title = "Data Flow"
+leader = "Drew & Rachit"
 [[classes.readings]]
 name = "A Preliminary Architecture for a Basic Data-Flow Processor"
 link = "https://dl.acm.org/doi/10.1145/641675.642111"
@@ -53,6 +54,7 @@ details = "Robert Alverson, David Callahan, Daniel Cummings, Brian Koblenz, Alla
 
 [[classes]]
 title = "Out of Order"
+leader = "Alexa"
 [[classes.readings]]
 name = "HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality"
 link = "https://dl.acm.org/doi/10.1145/17356.17391"
