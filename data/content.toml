@@ -16,6 +16,7 @@ details = "Jack B. Dennis and David P. Misunas"
 
 [[classes]]
 title = "Lisp Machines"
+leader = "Bhargava & Kushal"
 [[classes.readings]]
 name = "Architecture of the Symbolics 3600"
 link = "https://dl.acm.org/doi/10.5555/327010.327133"
