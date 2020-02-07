@@ -24,6 +24,7 @@ details = "David A. Moon"
 
 [[classes]]
 title = "RISC"
+leader = "Dietrich & Griffin"
 [[classes.readings]]
 name = "The case for the reduced instruction set computer"
 link = "https://dl.acm.org/doi/10.1145/641914.641917"
@@ -36,6 +37,7 @@ marker = "Bonus"
 
 [[classes]]
 title = "Connection Machines"
+leader = "Eashan & Sam"
 [[classes.readings]]
 name = "The Connection Machine"
 link = "https://dspace.mit.edu/handle/1721.1/14719"
