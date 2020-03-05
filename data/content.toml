@@ -107,6 +107,7 @@ details = "Kunle Olukotun, Basem A. Nayfeh, Lance Hammond, Ken Wilson, and Kunyu
 
 [[classes]]
 title = "Tiled Architectures"
+leader = "Yuwei & Will"
 [[classes.readings]]
 name = "The Raw Microprocessor: A Computational Fabric for Software Circuits and General-Purpose Programs"
 link = "https://ieeexplore.ieee.org/document/997877"
