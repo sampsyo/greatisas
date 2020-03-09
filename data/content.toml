@@ -120,9 +120,9 @@ name = "Exploiting ILP, TLP, and DLP with the Polymorphous TRIPS Architecture"
 link = "https://dl.acm.org/doi/10.1145/859618.859667"
 details = "Karthikeyan Sankaralingam, Ramadass Nagarajan, Haiming Liu, Changkyu Kim, Jaehyuk Huh, Doug Burger, Stephen W. Keckler, and Charles R. Moore"
 
-# [[classes]]
-# title = "RISC-V"
-# [[classes.readings]]
-# name = "Instruction Sets Should Be Free: The Case for RISC-V"
-# link = "https://people.eecs.berkeley.edu/~krste/papers/EECS-2014-146.pdf"
-# details = "Krste Asanović and David A. Patterson"
+[[classes]]
+title = "RISC-V"
+[[classes.readings]]
+name = "Instruction Sets Should Be Free: The Case for RISC-V"
+link = "https://people.eecs.berkeley.edu/~krste/papers/EECS-2014-146.pdf"
+details = "Krste Asanović and David A. Patterson"

@@ -28,8 +28,6 @@ date = "March 12"
 
 [[days]]
 date = "March 19"
-canceled = true
-event = "ASPLOS"
 
 [[days]]
 date = "March 26"
