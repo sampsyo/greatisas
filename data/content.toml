@@ -71,6 +71,7 @@ marker = "Bonus"
 
 [[classes]]
 title = "VLIW"
+leader = "Dietrich"
 [[classes.readings]]
 name = "Very Long Instruction Word architectures and the ELI-512"
 link = "https://dl.acm.org/doi/10.1145/800046.801649"
@@ -87,6 +88,7 @@ marker = "Bonus"
 
 [[classes]]
 title = "Dynamic Binary Translation"
+leader = "Drew"
 [[classes.readings]]
 name = "The Technology Behind Crusoe™ Processors"
 link = "https://web.stanford.edu/class/cs343/resources/crusoe.pdf"
@@ -115,6 +117,7 @@ details = "M.B. Taylor, J. Kim, J. Miller, D. Wentzlaff, F. Ghodrat, B. Greenwal
 
 [[classes]]
 title = "EDGE"
+leader = "Sachille & Tuan"
 [[classes.readings]]
 name = "Exploiting ILP, TLP, and DLP with the Polymorphous TRIPS Architecture"
 link = "https://dl.acm.org/doi/10.1145/859618.859667"
@@ -122,6 +125,7 @@ details = "Karthikeyan Sankaralingam, Ramadass Nagarajan, Haiming Liu, Changkyu 
 
 [[classes]]
 title = "RISC-V"
+leader = "Griffin"
 [[classes.readings]]
 name = "Instruction Sets Should Be Free: The Case for RISC-V"
 link = "https://people.eecs.berkeley.edu/~krste/papers/EECS-2014-146.pdf"
