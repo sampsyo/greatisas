@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ config.title }}{% if page.title %}: {{ page.title }}{% endif %}</title>
+  <title>{{ config.title }}</title>
 
   <link href="{{ get_url(path="main.css", trailing_slash=false) | safe }}" rel="stylesheet">
   <link rel="alternate" type="application/rss+xml" href="{{ get_url(path="rss.xml", trailing_slash=false) | safe }}">

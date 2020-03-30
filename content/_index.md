@@ -3,8 +3,7 @@ title = "The Great ISAs"
 template = "schedule.html"
 +++
 **Facilitator:** [Adrian Sampson][adrian]  
-**When:** Thursdays, 2:55–4:10pm  
-**Where:** Gates G13
+**Where:** [Zoom][]
 
 This reading group is about the ways computers might have been.
 The predominant ISAs in 2020 all owe a spiritual debt to the IBM System/360, from 1965, and the earliest von Neumann machines before it.
@@ -18,3 +17,4 @@ Tips for reading historical papers:
 - Think broadly about contemporary work that feels descended from this foundational stuff.
 
 [adrian]: https://www.cs.cornell.edu/~asampson/
+[zoom]: private/
