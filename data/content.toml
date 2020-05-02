@@ -130,3 +130,8 @@ leader = "Griffin"
 name = "Instruction Sets Should Be Free: The Case for RISC-V"
 link = "https://people.eecs.berkeley.edu/~krste/papers/EECS-2014-146.pdf"
 details = "Krste Asanović and David A. Patterson"
+[[classes.readings]]
+name = "Will RISC-V Revolutionize Computing?"
+link = "https://cacm.acm.org/magazines/2020/5/244325-will-risc-v-revolutionize-computing/fulltext"
+details = 'A 2020 "update" in CACM.'
+marker = "Bonus"
